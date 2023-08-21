@@ -1,1 +1,1 @@
-# stray kids
+license.md
